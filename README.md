@@ -1,5 +1,5 @@
-# 💫 About Me: (Also Lakshmanan Sir's Favourite Student!)
-I'm San Hariharan, A passionate ML Developer from India<br>I'm currently a first year computer science undergraduate.
+# 💫 About Me: 
+I'm San Hariharan, A passionate DL Developer from India<br>I'm currently a first year computer science undergraduate.
 
 
 # 💻 Tech Stack:
