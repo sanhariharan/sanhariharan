@@ -1,5 +1,5 @@
 # 💫 About Me: 
-I'm San Hariharan, A passionate DL Developer from India<br>I'm currently a first year computer science undergraduate.
+I'm San Hariharan, A passionate Ai Developer from India<br>I'm currently a third year computer science undergraduate.
 
 
 # 💻 Tech Stack:
